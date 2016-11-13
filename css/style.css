@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+input#input-val {
+	width: 400px;
+}
+
+.btn.btn-success {
+	margin-top: 10px;
+}
+
+#list {
+	margin-top: 10px;
+	width: 400px;
+}
+
+#list li {
+	background: #f50000;
+	border: 1px solid #f55555;
+	color: #ffffff;
+	padding: 10px;
+}
